@@ -1,5 +1,5 @@
 # C
-C is the first language most Computer Science students get to learn as a first programming class. This repository consists of the coursework required in learning C at my University, and mini projects that I developed along the way. 
+C is the first language most Computer Science students get to learn in a learning setting. This repository consists of the coursework required in learning C at my University, and mini projects that I developed along the way.
 
 Coursework
 1. Introduction to the Language
@@ -31,3 +31,5 @@ Coursework
 27. Variable Arguments
 28. Memory Management
 29. Command Line Arguments
+
+https://www.tutorialspoint.com/cprogramming/index.htm
