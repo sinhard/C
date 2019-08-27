@@ -33,3 +33,18 @@ Coursework
 29. Command Line Arguments
 
 https://www.tutorialspoint.com/cprogramming/index.htm
+
+Code
+1. Volume of Sphere Calculator
+    Q. Write a program that computes the volume of sphere with a 10-meter radius, using the formula v = 4/3pir^3
+2. Modification of 1
+    Q. Accepts radius value from the user
+3. Dollar-and-cents
+    Q. Write a program that asks the user to enter a dollars-and-cents amount, and displays the amount with 5% tax added to it
+4. Polynomial Function Evaluator
+    Q. Prompts user to enter a value for x, of which the x value will be substituted into the polynomial equation  and 3x^5 -     2x^4 - 5x^3 - x^2 + 7x -6 and outputs the calculated value. 
+5. US Dollar Value 
+    Q. Asks user to enter a US Dollar value ranging from 0-20, it then shows how to pay that amount using the smallest number     of $20, $10, $5, $1 bills
+6. exercise six
+7. Tabbed View
+    Q. Accepts values for item number, unit price, and year from user and displays it in tabbed view
