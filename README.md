@@ -45,6 +45,9 @@ Code
     Q. Prompts user to enter a value for x, of which the x value will be substituted into the polynomial equation  and 3x^5 -     2x^4 - 5x^3 - x^2 + 7x -6 and outputs the calculated value. 
 5. US Dollar Value 
     Q. Asks user to enter a US Dollar value ranging from 0-20, it then shows how to pay that amount using the smallest number     of $20, $10, $5, $1 bills
-6. exercise six
+6. Date Formatter
+    Q. Accept a date from user and format it as yyyymmdd
 7. Tabbed View
     Q. Accepts values for item number, unit price, and year from user and displays it in tabbed view
+8. SLL/USD - USD/SL Currency Converter
+    Q. Accepts exchange rate and amount value from user and converts into selected base rate. 
