@@ -51,3 +51,5 @@ Code
     Q. Accepts values for item number, unit price, and year from user and displays it in tabbed view
 8. SLL/USD - USD/SL Currency Converter
     Q. Accepts exchange rate and amount value from user and converts into selected base rate. 
+    
+K.N King A Modern Approach - 2nd Edition
