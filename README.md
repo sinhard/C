@@ -1,4 +1,4 @@
-# C
+# Learning C Programming Language
 C is the first language most Computer Science students get to learn in a learning setting. This repository consists of the coursework required in learning C at my University, and mini projects that I developed along the way.
 
 Coursework
